@@ -1,0 +1,17 @@
+https://www.digitalocean.com/community/tutorials/scrape-amazon-product-information-beautiful-soup 
+https://www.youtube.com/watch?v=WXK0u2yXLrU
+https://github.com/scrapehero-code/amazon-scraper -- amazon scraping
+
+
+steps for web scraping
+1. get links from youtube data API
+https://www.youtube.com/watch?v=DuudSp4sHmg
+
+2. web scrap 91mobiles.com using text in search box.
+3. Get all the gadgets shown in the result, and scrap each using the link web scraped.
+4. get the amazon and flipkart link from 91mobiles.com and get prices and reviews from there
+
+
+
+//image not accessible
+// mapping how?
